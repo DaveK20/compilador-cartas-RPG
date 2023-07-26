@@ -1,0 +1,10 @@
+br\edu\iff\ec\compiladores\projetolexico\ProjetolexicoBaseVisitor.class
+br\edu\iff\ec\compiladores\projetolexico\Projetolexico.class
+br\edu\iff\ec\compiladores\projetolexico\ProjetolexicoListener.class
+br\edu\iff\ec\compiladores\projetolexico\App.class
+br\edu\iff\ec\compiladores\projetolexico\ProjetolexicoLexer.class
+br\edu\iff\ec\compiladores\projetolexico\ProjetolexicoParser$InicialContext.class
+br\edu\iff\ec\compiladores\projetolexico\GeradorHTML.class
+br\edu\iff\ec\compiladores\projetolexico\ProjetolexicoVisitor.class
+br\edu\iff\ec\compiladores\projetolexico\ProjetolexicoParser.class
+br\edu\iff\ec\compiladores\projetolexico\ProjetolexicoBaseListener.class

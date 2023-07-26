@@ -1,0 +1,8 @@
+CRIAR_FICHA{
+  IMAGEM:mago.png
+  NOME:"Satanas"
+  RACA: Humano
+  CLASSE: Mago
+  LVL: 1
+  DESC:"O mago é uma classe onde o cara é muito brabo e come o cu de quem ta lendo, entao vai tomar no cu DAVI " 
+}
